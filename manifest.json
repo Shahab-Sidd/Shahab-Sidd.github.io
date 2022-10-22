@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
   "short_name": "Mohd Shahabuddin",
   "name": "Mohd Shahabuddin - Portfolio",
+=======
+  "short_name": "Developer Portfolio",
+  "name": "Developer Portfolio template by hhhrrrttt222111",
+>>>>>>> 2af80493699541abca958dbea8af81447b249319
   "icons": [
     {
       "src": "favicon.ico",
